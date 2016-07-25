@@ -15,5 +15,6 @@ class Fighter
 	end
 end
 
+naomi = Fighter.new("Naomi Thomas", 105, 25)
 ali = Fighter.new("Muhammad Ali", 100, 20)
 tyson = Fighter.new("Mike Tyson", 100, 10)
